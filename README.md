@@ -1,3 +1,3 @@
 Clone Repo: https://github.com/emkographics/Angular-JS.git
-Install: npm install
-Start: npm start
+<br>Install: npm install
+<br>Start: npm start
