@@ -1,0 +1,40 @@
+body {
+  padding: 32px;
+  margin: 32px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+}
+
+.clicked {
+  color:red;
+}
+
+header nav a{
+  color:white;
+  text-decoration:none;
+  font-weight:bold;
+  background:gray;
+  border:1px solid black;
+  padding:5px 10px;
+}
+
+header nav a:hover{
+  color:black;
+}
+
+label {
+    display: inline-block;
+    width: 140px;
+}
+
+input {
+    width: 250px
+}
+
+.contact-wrapper {
+  padding:10px;
+}
+
+.ng-invalid {
+  border: 1px solid red;
+}
